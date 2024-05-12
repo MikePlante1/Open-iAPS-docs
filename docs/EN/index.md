@@ -28,9 +28,11 @@ Before starting with Trio, you should understand Carb Ratio (CR), Insulin Sensit
 
 If you do not understand the terminology, please read the appropriate documentation here:
 
-- Information on [CR - Carb Ratio](/docs/EN/settings/configuration/carbratios.md#insulin-carbohydrate-ratio)
-- Information on [ISF - Insulin Sensitivity Factor](/docs/EN/settings/configuration/insulinsensitivities.md#insulin-sensitivity-factor)
-- Information on [Basal](/docs/EN/settings/configuration/basalprofile.md#basal-profile)
+- [Carb Ratio (CR)](./settings/configuration/carbratios.md#insulin-carbohydrate-ratio)
+
+- [Insulin Sensitivity Factor (ISF)](./settings/configuration/insulinsensitivities.md#insulin-sensitivity-factor)
+
+- [Basal Rate](./settings/configuration/basalprofile.md#basal-profile)
 
 
 If you require help defining and determining those settings, please seek assistance from your diabetes healthcare team.
