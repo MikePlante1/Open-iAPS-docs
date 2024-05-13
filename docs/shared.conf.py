@@ -22,7 +22,7 @@ import os
 
 #from recommonmark.parser import CommonMarkParser
 #from recommonmark.transform import AutoStructify
-import furo
+import alabaster
 
 # -- General configuration ------------------------------------------------
 
@@ -40,7 +40,8 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.todo',
     'myst_parser',
-    'furo',
+    # 'alabaster',
+    'sphinx_copybutton'
 ]
 
 myst_enable_extensions = [
