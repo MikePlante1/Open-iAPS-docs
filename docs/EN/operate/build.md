@@ -82,6 +82,7 @@ The **TrioBuildSelectScript** offers the choice to:
 To execute the **TrioBuildSelectScript**, open a terminal on your Mac and copy and paste the command below into the terminal. Then, read and follow the directions. 
 
 ```
+ { .bash .copy title="Copy and Paste to start the Trio Build Select Script" }
 /bin/bash -c "$(curl -fsSL \
   https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/TrioBuildSelectScript.sh)"
 ```
