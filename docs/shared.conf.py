@@ -41,6 +41,7 @@ extensions = [
     'sphinx.ext.todo',
     'myst_parser',
     # 'alabaster',
+    'sphinx_copybutton'
 ]
 
 myst_enable_extensions = [
