@@ -86,6 +86,13 @@ To execute the **TrioBuildSelectScript**, open a terminal on your Mac and copy a
   https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/TrioBuildSelectScript.sh)"
 ```
 
+
+```{code-block}
+:class: no-copybutton
+/bin/bash -c "$(curl -fsSL \
+  https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/TrioBuildSelectScript.sh)"
+```
+
 #### Build Trio
 
 When you select **Build Trio**, you will be provided with a choice of branches with information to guide your selection and URL for documentation. This script will then download a fresh copy of your selected branch and guide you through building with Xcode on your Mac.
