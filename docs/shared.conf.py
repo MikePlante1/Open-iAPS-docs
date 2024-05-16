@@ -387,3 +387,4 @@ epub_exclude_files = ['search.html']
 #            'enable_eval_rst': True,
 #            }, True)
 #    #app.add_transform(AutoStructify)
+copybutton_selector = "div:not(.no-copybutton) > div.highlight > pre"
