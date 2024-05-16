@@ -87,7 +87,7 @@ To execute the **TrioBuildSelectScript**, open a terminal on your Mac and copy a
 ```
 
 
-```{code-block}
+```
 :class: no-copybutton
 /bin/bash -c "$(curl -fsSL \
   https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/TrioBuildSelectScript.sh)"
