@@ -1,6 +1,5 @@
-# Apple Health
-:::{note}
-Apple Health is optional
-:::
+:::{admonition} Redirect
+:class: caution
 
-Enabling Apple Health allows Trio to write information on your blood sugar readings, insulin, and carbohydrates to Apple Health and read blood sugar readings in Apple Health. You will also need to give permission in iPhone Settings, Health, Data Access & Devices to write data to Apple Health. This is useful for those who like to analyze their data with TidePool, Cockpit, or Glooko.
+**This site is used for testing documentation development. Please go to [TrioDocs.org](https://docs.diy-trio.org) for the official Trio Documentation. You can also check out [diy-trio.org](https://diy-trio.org)**
+:::

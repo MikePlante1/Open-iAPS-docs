@@ -1,4 +1,5 @@
-# Pump
-This section allows you to select your insulin delivery system. For more information on supported pumps, see the following: [link](../../Getting-Started/pump.md). Older Omnipod and Medtronic devices require a Rileylink to translate communication between your phone's Bluetooth signals and the pump's radiocommunication.
+:::{admonition} Redirect
+:class: caution
 
-During the setup, you will also be asked to choose your insulin type, which will determine your duration of insulin action and peak activity time.
+**This site is used for testing documentation development. Please go to [TrioDocs.org](https://docs.diy-trio.org) for the official Trio Documentation. You can also check out [diy-trio.org](https://diy-trio.org)**
+:::
